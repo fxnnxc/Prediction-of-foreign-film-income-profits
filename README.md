@@ -42,20 +42,22 @@
 
 ---
 
-## 🌱 Review to numerical data
+> 머신러닝 모델을 훈련하고 데이터 EDA를 위한 **Key Procedure** 4가지 입니다. 
+
+### 🐋 1. Review to numerical data
 
 주어진 리뷰에 대해서 사용자는 토픽 단어를 선택하여 해당 리뷰를 토픽에 맞춰서 수치화 할 수 있습니다. 
 
 <img src="images/image1.png" width=700px>
 
 
-## 🌱 Story clustering
+### 🐋 2. Story clustering
 
 영화 줄거리에 대한 정보를 예측에 추가하기 위해서 PCA를 진행하였습니다. 
 
 <img src="images/image2.png" width=700px>
 
-## 🌱 Train Data
+### 🐋 3. Train Data
 
 예측에 영향을 끼치는 데이터에 대해서 계획을 세워서 전처리를 하였습니다. 
 
@@ -63,7 +65,7 @@
 
 <img src="images/image7.png" width=700px>
 
-## 🌱 Sentimental Analysis by Country
+### 🐋 4. Sentimental Analysis by Country
 
 미국과 한국에 대한 리뷰 반응의 차이를 분석해보면 영화에서 무엇을 중요하게 생각하는지 알 수 있습니다. 
 
