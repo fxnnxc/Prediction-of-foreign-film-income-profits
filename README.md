@@ -15,9 +15,7 @@
 <img src=https://img.shields.io/static/v1?label=&message=Bumjin&color=green&style=flat height=20px>
 <img src=https://img.shields.io/static/v1?label=&message=Kyunghi&color=blue&style=flat height=20px>
 
-세상에는 많은 영화가 있고 영화 수입사들은 외국의 영화를 수입해서 상영합니다. 
-
-영화를 평가하는 기준 및 수익성은 나라마다 다르기 때문에 저희는 각 나라의 리뷰를 통해서 차이를 극복하고 **머신러닝** 모델로 **수익성**을 예측하고자 합니다. 
+**Goal :** 세상에는 많은 영화가 있고 영화 수입사들은 외국의 영화를 수입해서 상영합니다. 영화를 평가하는 기준 및 수익성은 나라마다 다르기 때문에 저희는 각 나라의 리뷰를 통해서 차이를 극복하고 **머신러닝** 모델로 **수익성**을 예측하고자 합니다. 
 
 
 ---
