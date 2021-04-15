@@ -4,8 +4,9 @@
 
 >  데이터청년캠퍼스 X 연세대학교
 
-> [발표영상](https://www.youtube.com/watch?v=9_UFrXmfsuA)
-> [발표PPT](https://github.com/fxnnxc/Analysis-of-foreign-film-income-profits/blob/main/%EC%8A%AC%EA%B8%B0%EB%A1%9C%EC%9A%B4%EB%B6%84%EC%84%9D%EC%83%9D%ED%99%9C%20%EB%B0%9C%ED%91%9C.pdf)
+> [발표영상](https://www.youtube.com/watch?v=9_UFrXmfsuA) 
+
+> [발표PPT](https://github.com/fxnnxc/Analysis-of-foreign-film-income-profits/blob/main/%EC%8A%AC%EA%B8%B0%EB%A1%9C%EC%9A%B4%EB%B6%84%EC%84%9D%EC%83%9D%ED%99%9C%20%EB%B0%9C%ED%91%9C.pdf) ⚠️ 34MByte로 preview는 비추천입니다. 
 
 ## 🌱 Team Members 
 
