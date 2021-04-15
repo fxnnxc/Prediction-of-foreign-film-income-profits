@@ -16,7 +16,7 @@
 
  <p align="left">
 <img src=https://img.shields.io/static/v1?label=&message=Injin&color=red&style=flat height=22px>
-<img src=https://img.shields.io/static/v1?label=&message=Yunha&color=orange&style=flat height=22px>
+<img src=https://img.shields.io/static/v1?label=&message=Younha&color=orange&style=flat height=22px>
 <img src=https://img.shields.io/static/v1?label=&message=Huiji&color=pink&style=flat height=22px>
 <img src=https://img.shields.io/static/v1?label=&message=Bumjin&color=green&style=flat height=22px>
 <img src=https://img.shields.io/static/v1?label=&message=Kyunghi&color=blue&style=flat height=22px>
