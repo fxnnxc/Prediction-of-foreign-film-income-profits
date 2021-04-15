@@ -48,7 +48,6 @@
 <img src="images/image1.png" width=500px>
 
 
-
 ## 🌱 Story clustering
 
 영화 줄거리에 대한 정보를 예측에 추가하기 위해서 PCA를 진행하였습니다. 
