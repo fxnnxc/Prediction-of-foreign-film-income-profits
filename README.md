@@ -2,6 +2,8 @@
 
 > 한국데이터산업진흥원의 빅데이터 청년인재 프로젝트
 
+> [발표영상](https://www.youtube.com/watch?v=9_UFrXmfsuA)
+
 ## 🌱 Team Members 
 
  <p align="left">
@@ -56,3 +58,6 @@
 미국과 한국에 대한 리뷰 반응의 차이를 분석해보면 영화에서 무엇을 중요하게 생각하는지 알 수 있습니다. 
 
 <img src="images/image5.png" width=500px>
+
+
+---
