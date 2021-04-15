@@ -1,4 +1,4 @@
-# Analysis-of-foreign-film-income-profits
+# Prediction of foreign film income profits
 
 > 한국데이터산업진흥원의 빅데이터 청년인재 프로젝트
 
