@@ -20,6 +20,9 @@
 
 ---
 ## 🌱 Prediction 
+
+<img src="images/image6.png" width=400px>
+
 | Type| Accuracy | Precision | Recall |
 |:-:|:-:|:-:|:-:|
 |Review X  Story X | 0.69 |0.53| 0.56|
