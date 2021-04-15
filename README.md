@@ -55,6 +55,13 @@
 
 <img src="images/image2.png" width=700px>
 
+## 🌱 Train Data
+
+예측에 영향을 끼치는 데이터에 대해서 계획을 세워서 전처리를 하였습니다. 
+
+예측 정확도를 높이기 위해서 추가적인 전처리가 들어갑니다. :)
+
+<img src="images/image7.png" width=700px>
 
 ## 🌱 Sentimental Analysis by Country
 
