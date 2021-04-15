@@ -24,7 +24,7 @@
 |:-:|:-:|:-:|:-:|
 |Review X  Story X | 0.69 |0.53| 0.56|
 |Review X  Story O  |0.70  |0.54| 0.56|
-|Review O  Story O  |0.72  |0.58| 0.65|
+|Review O  Story O  |**0.72**  |**0.58**| **0.65**|
 
 ---
 
