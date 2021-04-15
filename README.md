@@ -9,11 +9,11 @@
 ## 🌱 Team Members 
 
  <p align="left">
-<img src=https://img.shields.io/static/v1?label=&message=인진&color=red&style=flat height=20px>
-<img src=https://img.shields.io/static/v1?label=&message=윤하&color=orange&style=flat height=20px>
-<img src=https://img.shields.io/static/v1?label=&message=희지&color=pink&style=flat height=20px>
-<img src=https://img.shields.io/static/v1?label=&message=범진&color=green&style=flat height=20px>
-<img src=https://img.shields.io/static/v1?label=&message=경희&color=blue&style=flat height=20px>
+<img src=https://img.shields.io/static/v1?label=&message=Injin&color=red&style=flat height=20px>
+<img src=https://img.shields.io/static/v1?label=&message=Yunha&color=orange&style=flat height=20px>
+<img src=https://img.shields.io/static/v1?label=&message=Huiji&color=pink&style=flat height=20px>
+<img src=https://img.shields.io/static/v1?label=&message=Bumjin&color=green&style=flat height=20px>
+<img src=https://img.shields.io/static/v1?label=&message=Kyunghi&color=blue&style=flat height=20px>
 
 세상에는 많은 영화가 있고 영화 수입사들은 외국의 영화를 수입해서 상영합니다. 
 
